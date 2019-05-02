@@ -1,0 +1,35 @@
+body {
+    font-family:fantasy ;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1,h3{
+    text-decoration: underline;
+} 
+
+header {                        /* website top*/
+    position: relative;
+    text-align: center;
+    top: -20px;
+    background-color: aliceblue;
+    margin-bottom: 0px;
+  
+}
+p{
+    margin-bottom: 0px; /*making room for small stuff under desc*/
+}
+p2 {
+    font-size: 12px;    /*small stuff under desc*/
+}
+
+h3 {                        /*sub titles*/
+    margin-top: 5px;
+    font-style:italic;
+    margin-bottom: 5px
+}
+section {                    /*title and par.*/
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
